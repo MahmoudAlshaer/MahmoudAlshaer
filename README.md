@@ -22,4 +22,4 @@ Passionate about Cloud Computing & UI/UX Design
 -  Learning Linux and Figma
 
 ##  Connect With Me
-www.linkedin.com/in/mahmoud-alshaer-245a80269
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahmoud-alshaer-245a80269)
