@@ -26,4 +26,4 @@ Passionate about Cloud Computing & UI/UX Design
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
 
-](https://www.linkedin.com/in/mahmoud-alshaer-245a80269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+](www.linkedin.com/in/mahmoud-alshaer-245a80269)
