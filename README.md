@@ -7,7 +7,7 @@ Passionate about Cloud Computing & UI/UX Design
 -  AWS (S3, EC2, IAM, QuickSight)
 -  Figma (learning)
 -  Linux (learning)
-
+-  Java
 
 ##  AWS Projects
 | Project | Description |
