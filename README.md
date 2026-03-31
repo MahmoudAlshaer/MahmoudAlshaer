@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Mahmoud 
 
-<!--
-**MahmoudAlshaer/MahmoudAlshaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student at Arab Open University, Riyadh | 
+Passionate about Cloud Computing & UI/UX Design
 
-Here are some ideas to get you started:
+##  Skills & Tools
+-  AWS (S3, EC2, IAM, QuickSight)
+-  Figma (learning)
+-  Linux (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  AWS Projects
+| Project | Description |
+|---|---|
+| [Cloud Security with IAM & EC2](https://github.com/MahmoudAlshaer/AWS-Projects) | Secure access control using IAM roles and EC2 environments |
+| [Data Visualization with QuickSight](https://github.com/MahmoudAlshaer/AWS-Projects) | Netflix dataset analyzed and visualized using AWS QuickSight |
+| [S3 Static Website Hosting](https://github.com/MahmoudAlshaer/AWS-Projects) | Static website deployed using Amazon S3 |
+
+##  Currently
+-  Preparing for AWS Cloud Practitioner certification
+-  Studying CS at AOU Riyadh
+-  Learning Linux and Figma
+
+##  Connect With Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
+
+](https://www.linkedin.com/in/mahmoud-alshaer-245a80269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
