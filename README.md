@@ -1,11 +1,10 @@
 ## Hi, I'm Mahmoud 
 
 CS Student at Arab Open University, Riyadh | 
-Passionate about Cloud Computing & UI/UX Design
+Passionate about Cloud Computing
 
 ##  Skills & Tools
 -  AWS (S3, EC2, IAM, QuickSight)
--  Figma (learning)
 -  Linux (learning)
 -  Java
 
@@ -19,7 +18,7 @@ Passionate about Cloud Computing & UI/UX Design
 ##  Currently
 -  Preparing for AWS Cloud Practitioner certification
 -  Studying CS at AOU Riyadh
--  Learning Linux and Figma
+-  Learning Linux
 
 ##  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahmoud-alshaer-245a80269)
