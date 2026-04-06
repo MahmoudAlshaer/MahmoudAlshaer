@@ -6,6 +6,7 @@ Passionate about Cloud Computing
 ##  Skills & Tools
 -  AWS (S3, EC2, IAM, QuickSight)
 -  Linux (learning)
+-  Figma (learning)
 -  Java
 
 ##  AWS Projects
